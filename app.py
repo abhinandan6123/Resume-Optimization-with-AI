@@ -1,12 +1,3 @@
-# ============================================================
-# AI RESUME OPTIMIZER — Streamlit App
-# Model: Random Forest (resume_model.pkl) — 72.84% accuracy
-# Rewriting: Hardcoded keyword-aligned (No API needed)
-# Role Selection: Manual dropdown by user
-# ============================================================
-
-# ============================================================
-%%writefile app.py
 import streamlit as st
 import pickle, re, io, os
 from collections import Counter
