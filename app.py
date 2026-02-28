@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1LZnAi6R1JDkSsqqOc42w8cmkFBOX8MDW
 """
 
-!pip install streamlit reportlab plotly scikit-learn PyPDF2 pyngrok -q
 
 """# ============================================================
 # AI RESUME OPTIMIZER — Streamlit App
