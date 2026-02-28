@@ -16,8 +16,7 @@ Original file is located at
 # ============================================================
 """
 
-from google.colab import files
-uploaded = files.upload()
+
 
 import streamlit as st
 import pickle, re, io, os
