@@ -586,7 +586,7 @@ numpy>=1.24.0
 | | |
 |---|---|
 | **Project** | AI Resume Optimization System |
-| **Year** | 2025 |
+| **Year** | 2026 |
 | **Platform** | Google Colab → Streamlit Cloud |
 | **Best Model** | Random Forest — 72.84% Accuracy |
 | **Avg Improvement** | 78.1% match score improvement |
